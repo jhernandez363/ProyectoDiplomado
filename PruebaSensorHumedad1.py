@@ -26,4 +26,4 @@ while True:
     else:
         print("La humedad es suficiente. No es necesario regar.")
 
-    time.sleep(2)  # Espera 1 hora (puedes ajustar este tiempo según tus necesidades)
+    time.sleep(2)  # Espera 1 hora (ajustar este tiempo según tus necesidades)
